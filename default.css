@@ -1,0 +1,14 @@
+*{margin: 0; padding: 0;}
+
+*{box-sizing: border-box;}
+.token.property,
+.token.selector,
+.token.function
+{
+  color: black;
+}
+
+#code{
+  height: 100vh;
+  overflow: auto;
+}
